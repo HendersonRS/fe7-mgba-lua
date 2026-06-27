@@ -1,0 +1,2 @@
+*.lua linguist-language=Lua
+*.md linguist-language=Markdown
